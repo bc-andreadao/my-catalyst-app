@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <a href="https://catalyst.dev" target="_blank" rel="noopener norerrer">
   <img src="https://storage.googleapis.com/bigcommerce-developers/images/catalyst_readme_banner.png" alt="Catalyst for Composable Commerce Image Banner" title="Catalyst">
 </a>
@@ -58,6 +57,3 @@ Learn more about Catalyst at [catalyst.dev](https://catalyst.dev).
 - [GraphQL Storefront API Playground](https://developer.bigcommerce.com/graphql-storefront/playground)
 - [GraphQL Storefront API Explorer](https://developer.bigcommerce.com/graphql-storefront/explorer)
 - [BigCommerce DevDocs](https://developer.bigcommerce.com/docs/build)
-=======
-# my-catalyst-app
->>>>>>> d24cfb0b8f224fba47f6cf6d4aa93c48b442fbb9
